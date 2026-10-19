@@ -51,7 +51,7 @@ function mostraResultado(){
 function jogaNovamente(){
     atual = 0; 
     historiaFinal = "";
-    caixaResultado.classList.add("mostrar");
+    caixaResultado.classList.remove("mostrar");
     mostraPergunta();
 }
 
