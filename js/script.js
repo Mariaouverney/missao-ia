@@ -48,7 +48,7 @@ function mostraResultado(){
 }
 
 
-function jogaNovamente(){
+function jogarNovamente(){
     atual = 0;
     historiaFinal = "";
     mostrarPergunta();
