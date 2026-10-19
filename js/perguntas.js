@@ -8,7 +8,8 @@ export const perguntas = [
                     "Sentiu um receio inicial com o avanço rápido da tecnologia", 
                     "Preocupou-se com o impacto desconhecido na sociedade", 
                     "Teve dúvidas sobre a segurança dessas novas ferramentas"
-                ]
+                ],
+                proxima: 1,
             },
             {
                 texto: "Isso é maravilhoso!",
@@ -16,8 +17,9 @@ export const perguntas = [
                     "Ficou entusiasmado com as infinitas possibilidades de inovação", 
                     "Enxergou a novidade como uma facilidade para o dia a dia", 
                     "Mostrou grande abertura para explorar os novos recursos"
-                ]
-            }           
+                ],
+                proxima: 2,
+            },     
         ]
     },
     {
@@ -29,7 +31,8 @@ export const perguntas = [
                     "Prefere otimizar o tempo usando buscas inteligentes", 
                     "Busca sintetizar conteúdos de maneira clara e direta", 
                     "Usa a tecnologia como facilitadora do aprendizado"
-                ]
+                ],
+                proxima: 3,
             },
             {
                 texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
@@ -37,8 +40,9 @@ export const perguntas = [
                     "Valoriza os métodos tradicionais de pesquisa acadêmica", 
                     "Prioriza o debate humano e o pensamento crítico", 
                     "Prefere construir o conhecimento de forma autoral"
-                ]
-            }
+                ],
+                proxima: 4,
+            },
         ]
     },
     {
@@ -50,7 +54,8 @@ export const perguntas = [
                     "Demonstra uma visão social voltada ao bem-estar humano", 
                     "Preocupa-se com os efeitos da automação no mercado", 
                     "Defende a valorização e proteção dos trabalhadores"
-                ]
+                ],
+                proxima: 5,
             },
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
@@ -58,8 +63,9 @@ export const perguntas = [
                     "Adota uma postura otimista diante do futuro profissional", 
                     "Enxerga a IA como uma aliada do crescimento técnico", 
                     "Acredita no surgimento de novas carreiras tecnológicas"
-                ]
-            }
+                ],
+                proxima: 6,
+            },
         ]
     },
     {
@@ -71,7 +77,8 @@ export const perguntas = [
                     "Optou por expressar sua criatividade manualmente", 
                     "Preferiu desenhar sem o uso de geradores automáticos", 
                     "Valoriza o esforço técnico de produzir a própria arte"
-                ]
+                ],
+                proxima: 7
             },
             {
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
@@ -79,8 +86,9 @@ export const perguntas = [
                     "Decidiu colocar a inteligência artificial em prática", 
                     "Materializou suas ideias visuais de forma ágil", 
                     "Aproveitou a alta definição técnica dos novos geradores"
-                ]
-            }
+                ],
+                proxima: 8,
+            },
         ]
     },
     {
@@ -92,7 +100,7 @@ export const perguntas = [
                     "Entende que os textos de IA exigem atenção constante", 
                     "Sabe que a revisão humana evita erros nas entregas", 
                     "Considera a originalidade indispensável em tarefas escolares"
-                ]
+                ],
             },
             {
                 texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
@@ -100,8 +108,8 @@ export const perguntas = [
                     "Considera que saber guiar a IA já valida o esforço", 
                     "Aceita o material gerado integralmente como resultado", 
                     "Vê praticidade no uso de ferramentas prontas sob comando"
-                ]
-            }
+                ],
+            },
         ]
     }
 ];
